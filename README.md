@@ -47,4 +47,4 @@ To deploy the website to GitHub Pages, follow these steps:
 
 6. Click "Save" to deploy your website.
 
-7. Access your website at `https://IsaacZachary.github.io/portfolio`.
+7. Access your website at `https://lorineadhiambo.github.io/Abdul-Portfolio/`.
